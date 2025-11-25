@@ -78,19 +78,11 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Psychology Researcher
+    time: 2025 - Present
+    company: Daejeon University, Psychology Department
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      AI 상담에서의 SO 조건을 탐구하는 연구 프로젝트를 진행하며 연구 설계, 문헌 검토, 자료 분석에 참여하고 있다. 상담·임상심리학의 이론을 기반으로 인간–AI 상호작용의 구조를 분석하며 학문적 탐구 능력을 확장하고 있다.
         - Bullet point
         - Bullet point
   - role: Senior Software Engineer
